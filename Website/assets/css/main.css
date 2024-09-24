@@ -1,0 +1,279 @@
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+.roundedInput {
+  border-radius: 10px;
+  padding: 8px; 
+  border: 1px solid #ccc; 
+}
+
+/* Add the following CSS rules to position the logos and buttons */
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+
+.logo-container img {
+  margin-right: 10px; /* Add margin as needed */
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  /* position: absolute; 
+  top: 20%; 
+  left: 90%;
+  transform: translate(-50%, -50%); */
+}
+
+.navbar .btn {
+  margin-left: 10px; /* Add margin as needed */
+}
+
+.search-container {
+  position: relative;
+}
+
+.search-input {
+  padding: 5px;
+  border: 1px solid #0190DB;
+  margin-left: 5px;
+  border-radius: 5px;
+  outline: none;
+  width: 150px;
+  display: inline-block;
+  position: relative;
+}
+
+.search-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  background-color: white;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}
+
+.search-button img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+
+
+
+ul {
+  text-decoration: none;
+}
+
+
+.btn-primary {
+    background-color: #033C5A;
+    color: #ffffff;
+    outline: none;
+}
+
+.send-button {
+  background-color: #033C5A;
+  color: #ffffff;
+  outline: none;
+}
+
+.subscribe-button {
+  background-color: #033C5A;
+  color: #ffffff;
+  outline: none;
+}
+
+
+body {
+  padding-top: 150px; /* Add padding to the top of the body to accommodate the height of the nav bar */
+  padding-left: 0;
+}
+
+
+li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.data {
+  width: 470px;
+  left: calc(50% - 470px/2 + 247px);
+  top: calc(50% - 51px/2 - 1562.5px);
+  font-family: 'Inter';
+  padding-top: 10%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 42px;
+  /* identical to box height */
+  color: #0190DB;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.icons-container .column.content {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 25px; /* Add any desired spacing between icons */
+}
+
+.icons-container .column.content figure {
+  margin: 0; /* Remove any default margins on the figures */
+}
+
+.icons-container .column.content figure a img {
+  max-height: 30px; /* Set a desired height for the icons */
+}
+
+.service-title{
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.guides{
+  display: flex;
+  align-items: center;
+}
+
+.guides img{
+  margin-right: 5px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.guides-statement{
+  max-width:80%;
+  display:inline-block;
+  overflow-wrap: break-word;
+}
+
+.form-flex{
+  display: flex;
+}
+
+.form-flex col {
+  flex: 1;
+  text-align: center;
+}
+
+.links-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.links-column {
+  flex: 1;
+  max-width: 25%;
+}
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-column {
+  flex: 1;
+  max-width: 100%;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.install-marg{
+  margin-top: 150px;
+}
+
+@media (max-width: 800px) {
+  .image-white-female-helpdesk{
+    padding-top: 20px;
+  }
+
+  .data {
+    width: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    /* identical to box height */
+    color: #0190DB;
+  }
+
+  .service-title{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+
+  .row{
+    width: 100%;
+    align-items: center;
+    align-content: center;
+  }
+
+  .col{
+    min-width: 100%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  }
+
+  .guides{
+    display: inline-flex;
+    text-align: center;
+  }
+
+  .form-flex{
+    display: block;
+  }
+
+  .form-flex col {
+    text-align: center;
+  }
+
+  .links-row {
+    width: 100%;
+    display: block;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+  }
+
+  .links-column {
+    padding-top: 5%;
+    min-width: 100%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  }
+
+  .footer-row {
+    width: 100%;
+    display: block;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+  }
+
+  .footer-column {
+    padding-top: 5%;
+    min-width: 100%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  }
+
+  .install-marg{
+    margin-top: 20px;
+  }
+}
