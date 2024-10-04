@@ -1,0 +1,114 @@
+# README for Creating a GitHub Account Using Your George Washington University Email ID
+
+## Overview
+
+This document guides George Washington University (GWU) students, faculty, and staff through creating a GitHub account using your GWU email, managing issues, and understanding the GitHub Issues feature. Additionally, it includes an FAQ section to address common concerns. For any issues or assistance, you can contact either Bharath Genji Mohanaranga or Aman from the George Washington University IT department.
+
+## Steps to Create a GitHub Account Using GWU Email
+
+### Step 1: Sign up for GitHub
+
+1. Go to the [GitHub Signup page](https://github.com/join).
+2. Fill in the following fields:
+   - **Username**: Choose a unique username.
+   - **Email**: Use your **@gwu.edu** email address (e.g., `yourname@gwu.edu`).
+   - **Password**: Set a strong password.
+3. Verify the CAPTCHA.
+4. Click **Create account**.
+
+### Step 2: Verify Your GWU Email
+
+1. Check your GWU inbox for an email from GitHub.
+2. Open the email and click the verification link.
+3. Once verified, you'll have full access to GitHub with your GWU email.
+
+### Step 3: Apply for GitHub Education Pack (Optional)
+
+1. Visit [GitHub Student Developer Pack](https://education.github.com/pack).
+2. Click **Get Your Pack**.
+3. Sign in with your new GitHub account.
+4. Fill out the form and select **George Washington University** as your institution.
+5. You may need to provide proof of your student status (e.g., a copy of your student ID or enrollment verification).
+
+---
+
+## Managing Issues on GitHub
+
+GitHub **Issues** is a great way to track bugs, tasks, or feature requests in a repository. This section outlines how to create and manage issues.
+
+### Creating an Issue
+
+1. Navigate to the repository where you want to create the issue.
+2. Go to the **Issues** tab.
+3. Click **New Issue**.
+4. Provide a **Title** and **Description** for the issue:
+   - The **Title** should be clear and concise.
+   - The **Description** should contain as much relevant detail as possible (steps to reproduce the bug, expected behavior, screenshots, etc.).
+5. Tag relevant people for the issue. You can tag:
+   - **@BharathGenji** or **@AmanGWU** for technical support related to GWU-specific repositories.
+6. Add **Labels** to categorize the issue (e.g., bug, enhancement, documentation).
+7. Click **Submit new issue**.
+
+### Assigning Issues
+
+Once an issue is created, it can be assigned to a specific person.
+1. Open the issue you want to assign.
+2. On the right-hand side, under **Assignees**, click on **assign yourself** or search for others (e.g., **@BharathGenji** or **@AmanGWU**).
+
+### Closing Issues
+
+1. Once the issue is resolved, you or someone else can close it.
+2. Open the issue.
+3. Scroll down and click **Close issue**.
+
+---
+
+## Features of GitHub Issues
+
+- **Labels**: Use labels to categorize your issues (e.g., bug, enhancement, question). You can find the label section on the right-hand side of an issue.
+- **Assignees**: Assign issues to yourself or others. Multiple people can be assigned to an issue.
+- **Milestones**: Track progress toward project goals by grouping issues into milestones.
+- **Projects**: Use GitHub Projects to create boards for task management, combining issues and pull requests into visual workflows.
+- **Mentions**: Tag relevant users using **@username** (e.g., **@BharathGenji** or **@AmanGWU**).
+- **Linked Issues**: Reference other issues or pull requests by typing **#issue_number** to create cross-links between related tasks.
+- **Notifications**: GitHub sends notifications when you are tagged or assigned to an issue.
+
+---
+
+## Whom to Tag for Issues in GWU IT Department
+
+For any issues related to George Washington University-specific repositories or student projects, you can contact:
+
+- **Bharath Genji Mohanaranga**
+  - GitHub: **@BharathGenji**
+  - Email: bharath.genjimohanaranga@gwmail.gwu.edu
+- **Aman** (GWU IT Department)
+  - GitHub: **@AmanGWU**
+
+These contacts can help with technical support, issue resolution, and general queries.
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### Q1: How do I reset my GitHub password?
+- A: Go to the [Password Reset page](https://github.com/password_reset) and enter your email address to receive a reset link.
+
+### Q2: Can I use my personal email for GitHub instead of my GWU email?
+- A: Yes, but it’s recommended to use your GWU email for student and university-related projects, especially to apply for GitHub's educational benefits.
+
+### Q3: How do I assign multiple people to an issue?
+- A: You can assign multiple people by selecting additional assignees in the **Assignees** section on the right side of the issue page.
+
+### Q4: Can I tag people outside my organization?
+- A: Yes, you can tag anyone with a GitHub account by using **@username**, but ensure the person is relevant to the issue.
+
+### Q5: What are **Milestones** used for?
+- A: Milestones help track progress by grouping multiple issues. You can use them to track the completion of features or project phases.
+
+### Q6: How do I prioritize issues?
+- A: You can prioritize issues by using **Labels** (e.g., **high-priority**, **low-priority**) or by tagging relevant users to ensure faster attention.
+
+---
+
+For further assistance, feel free to reach out to **Bharath** or **Aman**.
